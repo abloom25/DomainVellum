@@ -1,0 +1,9 @@
+{
+  "domains": ["abloom.site"],
+  "thresholds": {
+    "warning": 90,
+    "critical": 30
+  },
+  "siteName": "Domain Vellum",
+  "favicon": "http://img.assets.abloom.site/img/2026/06/22/6a39001255781.png"
+}
